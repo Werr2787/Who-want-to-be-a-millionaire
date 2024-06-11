@@ -4,7 +4,7 @@ import android.content.Context
 import com.whatrushka.whowhantbeamillionare.core.view_model.models.game_question.data.GameQuestion
 import com.whatrushka.whowhantbeamillionare.core.view_model.models.hints.Hint
 import com.whatrushka.whowhantbeamillionare.core.view_model.models.hints.utils.ProbabilityHelper
-import com.whatrushka.whowhantbeamillionareteam1.R
+import com.whatrushka.whowhantbeamillionare.R
 
 class HallHelp(context: Context) : Hint(
     context = context,

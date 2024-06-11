@@ -3,7 +3,7 @@ package com.whatrushka.whowhantbeamillionare.core.view_model.models.hints.data
 import android.content.Context
 import com.whatrushka.whowhantbeamillionare.core.view_model.models.game_question.data.GameQuestion
 import com.whatrushka.whowhantbeamillionare.core.view_model.models.hints.Hint
-import com.whatrushka.whowhantbeamillionareteam1.R
+import com.whatrushka.whowhantbeamillionare.R
 
 class FiftyFifty(context: Context) : Hint(
     context = context,

@@ -24,7 +24,7 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import com.whatrushka.whowhantbeamillionare.core.view_model.QuestionsViewModel
 import com.whatrushka.whowhantbeamillionare.core.view_model.models.game_question.data.AnswerResult
-import com.whatrushka.whowhantbeamillionareteam1.R
+import com.whatrushka.whowhantbeamillionare.R
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch

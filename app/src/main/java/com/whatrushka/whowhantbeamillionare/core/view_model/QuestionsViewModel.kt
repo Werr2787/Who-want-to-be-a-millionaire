@@ -37,7 +37,7 @@ class QuestionsViewModel(
     suspend fun startGame() {
         initHints()
         api.startSession()
-        val questions = api.fetchQuestions(amount = 10, type = AnswerType.Multiple)
+        val questions = api.fetchQuestions(amount = 15, type = AnswerType.Multiple)
         gameQuestionRepository.setQuestions(questions)
     }
 

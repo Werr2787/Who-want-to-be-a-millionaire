@@ -9,7 +9,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
 import com.whatrushka.whowhantbeamillionare.core.view_model.models.game_question.data.GameQuestion
-import com.whatrushka.whowhantbeamillionareteam1.R
+import com.whatrushka.whowhantbeamillionare.R
 
 @Composable
 fun ProgressList(

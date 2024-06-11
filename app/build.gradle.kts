@@ -11,11 +11,11 @@ plugins {
 }
 
 android {
-    namespace = "com.whatrushka.whowhantbeamillionareteam1"
+    namespace = "com.whatrushka.whowhantbeamillionare"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.whatrushka.whowhantbeamillionareteam1"
+        applicationId = "com.whatrushka.whowhantbeamillionare"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
