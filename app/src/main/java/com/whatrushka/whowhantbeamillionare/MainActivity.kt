@@ -15,6 +15,7 @@ import androidx.compose.ui.unit.dp
 import com.whatrushka.whowhantbeamillionare.core.view_model.QuestionsViewModel
 import com.whatrushka.whowhantbeamillionare.ui.theme.WhoWhantBeAMillionareTeam1Theme
 import com.whatrushka.whowhantbeamillionare.views.navigation.Navigation
+import com.whatrushka.whowhantbeamillionareteam1.R
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

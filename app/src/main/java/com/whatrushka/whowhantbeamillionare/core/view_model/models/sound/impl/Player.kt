@@ -2,8 +2,8 @@ package com.whatrushka.whowhantbeamillionare.core.view_model.models.sound.impl
 
 import android.content.Context
 import android.media.MediaPlayer
-import com.whatrushka.whowhantbeamillionare.R
 import com.whatrushka.whowhantbeamillionare.core.view_model.models.sound.api.SoundService
+import com.whatrushka.whowhantbeamillionareteam1.R
 
 class Player(private val context: Context) : SoundService {
     private var currentPlayer: MediaPlayer? = null

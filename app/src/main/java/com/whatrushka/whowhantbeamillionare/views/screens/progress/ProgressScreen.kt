@@ -12,10 +12,10 @@ import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.zIndex
 import androidx.navigation.NavController
-import com.whatrushka.whowhantbeamillionare.R
 import com.whatrushka.whowhantbeamillionare.core.view_model.QuestionsViewModel
 import com.whatrushka.whowhantbeamillionare.views.navigation.Screen
 import com.whatrushka.whowhantbeamillionare.views.screens.progress.ui.ProgressList
+import com.whatrushka.whowhantbeamillionareteam1.R
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.runBlocking

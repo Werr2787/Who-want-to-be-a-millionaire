@@ -32,9 +32,9 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.navigation.NavController
-import com.whatrushka.whowhantbeamillionare.R
 import com.whatrushka.whowhantbeamillionare.core.view_model.QuestionsViewModel
 import com.whatrushka.whowhantbeamillionare.views.navigation.Screen
+import com.whatrushka.whowhantbeamillionareteam1.R
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.launch
 

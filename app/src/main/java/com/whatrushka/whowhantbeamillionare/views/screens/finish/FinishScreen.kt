@@ -26,6 +26,7 @@ import androidx.navigation.NavController
 import com.whatrushka.whowhantbeamillionare.R
 import com.whatrushka.whowhantbeamillionare.core.view_model.QuestionsViewModel
 import com.whatrushka.whowhantbeamillionare.views.navigation.Screen
+import com.whatrushka.whowhantbeamillionareteam1.R
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.runBlocking
